@@ -402,7 +402,7 @@ html::-webkit-scrollbar-thumb {
 
 @keyframes paralex-animate {
   0%,20% {
-    background: url('../image/Build2.JPG') no-repeat center;
+    background: url('../image/kitswnyt2.png') no-repeat center;
     background-attachment: fixed; background-size: 100% 100%;
   }
   25%,45% {
